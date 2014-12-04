@@ -1,11 +1,12 @@
 ---
 layout: default
-title: 2014-2015 Season
+title: "2014-2015 Season"
 permalink: /season/
 published: true
 ---
 
 ## Guest Choir
+
 ### Anima: Young Singers of Greater Chicago
 3:00 pm, Sunday, November 16, 2014  
 First Lutheran Church
@@ -15,6 +16,7 @@ Anima, formerly the Glen Ellyn Children's Chorus, is an internationally known gr
 Co-sponsored by Innkeeper's Fresh Roasted Coffee and Bahá'í Faith.
 
 ## Fall Concert
+
 ### The Seven Joys of Christmas
 7:30 pm, Saturday, December 13, 2014  
 First Presbyterian Church
@@ -24,6 +26,7 @@ Featuring music for choir and a very accomplished string quartet, the program wi
 Sponsored by Blick Art Materials.
 
 ## Spring Concert
+
 ### Verdi's Requiem
 7:30 pm, Saturday, May 2, 2015  
 Central Congregational Church
@@ -37,6 +40,7 @@ Subscribe today for only $30.  Save $6.
 Seniors 60+, $24.  Save $6.  Students free, courtesy of the Register-Mail.
 
 Cost of tickets purchased separately:
+
 * Fall Concert $12 (Srs. $10)
 * Guest Concert $12 (Srs. $10)
 * Spring Concert $12 (Srs. $10)
