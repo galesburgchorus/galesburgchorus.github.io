@@ -1,5 +1,7 @@
 ---
 layout: default
+title: 2014-2015 Season
+permalink: /season/
 published: true
 ---
 
