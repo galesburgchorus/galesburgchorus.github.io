@@ -14,4 +14,4 @@ and broaden our reach to all people.” Galesburg Community Chorus is supported 
 generosity of private donors, sponsors, local businesses, ticket sales, membership dues,
 and grants. We also offer scholarships to college-bound high school seniors interested in
 singing with the Chorus. For more information about singing with us, or if you would like to
-make a tax-deductable contribution, contact us (information below).
+make a tax-deductable contribution, contact us.
