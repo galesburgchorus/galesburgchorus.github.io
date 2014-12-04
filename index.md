@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-![]({{ site.url }}/img/chorus.jpg)
+![]({{ site.baseurl }}/img/chorus.jpg)
 
 Galesburg Community Chorus was organized in 1945 to provide singers an opportunity
 to participate in choral music in its larger forms and give the Galesburg community an
