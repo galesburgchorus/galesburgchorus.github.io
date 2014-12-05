@@ -40,6 +40,10 @@
             margin-left: 20px;
         }
     }
+    .page-link:hover {
+    	color: $brand-color2;
+        text-decoration: none;
+    }
 
     @include media-query($on-palm) {
         position: absolute;
