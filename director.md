@@ -29,5 +29,3 @@ An active member of the American Choral Directors Association, Music
 Educators National Conference, the Illinois Music Educators Association, and
 the National Association of Teachers of Singing, Pahel is a frequent adjudicator
 for high school solo and ensemble contests as well as a clinician for large group contests and festivals.
-
-test
