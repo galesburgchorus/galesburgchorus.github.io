@@ -6,7 +6,7 @@ published: true
 ---
 
 <div style="float: right; margin: 20px;">
-    <img src="http://placekitten.com/g/200/300"/>
+    <img src="{{ site.baseurl }}/img/tim.jpg"/>
 </div>
 
 Dr. Tim Pahel is an Assistant Professor of Music and Director of Choral and
