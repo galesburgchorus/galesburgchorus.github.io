@@ -5,7 +5,7 @@ permalink: /director/
 published: true
 ---
 
-<div style="float: right">
+<div style="float: right; margin: 10px;">
     <img src="http://placekitten.com/g/200/300"/>
 </div>
 
