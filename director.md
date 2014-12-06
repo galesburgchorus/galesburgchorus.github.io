@@ -5,7 +5,7 @@ permalink: /director/
 published: true
 ---
 
-<div style="float: right; margin: 20px;">
+<div style="float: right; margin-left: 20px; margin-bottom: 20px;">
     <img src="{{ site.baseurl }}/img/tim.jpg"/>
 </div>
 
