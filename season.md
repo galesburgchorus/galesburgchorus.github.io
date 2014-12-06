@@ -21,7 +21,7 @@ Co-sponsored by Innkeeper's Fresh Roasted Coffee and Bahá'í Faith.
 7:30 pm, Saturday, December 13, 2014  
 First Presbyterian Church
 
-Featuring music for choir and a very accomplished string quartet, the program will include classical as well as festive holiday works.  Some highlight include Francesco Durante's Magnificat, Johann Pachelbel's Nun danket alle Gott, and Kirke Mechem's The Seven Joys of Christmas, a set of beautifully arranged Christmas carols.
+Featuring music for choir and a very accomplished string quartet, the program will include classical as well as festive holiday works.  Some highlights include Francesco Durante's Magnificat, Johann Pachelbel's Nun danket alle Gott, and Kirke Mechem's The Seven Joys of Christmas, a set of beautifully arranged Christmas carols.
 
 Sponsored by Blick Art Materials.
 
