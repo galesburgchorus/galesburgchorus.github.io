@@ -36,9 +36,7 @@ Verdi's Requiem is one of the most powerful, dramatic, and beautiful choral-orch
 Sponsored by OSF St. Mary Medical Center.
 
 ## Subscriptions
-Subscribe today for only $30.  Save $6.  
-Seniors 60+, $24.  Save $6.  Students free, courtesy of the Register-Mail.
-
+Subscribe today for only $30. Seniors $24.
 Cost of tickets purchased separately:
 
 * Fall Concert $12 (Srs. $10)
