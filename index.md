@@ -16,4 +16,4 @@ and grants. We also offer scholarships to college-bound high school seniors inte
 singing with the Chorus. For more information about singing with us, or if you would like to
 make a tax-deductable contribution, contact us.
 
-Rehearsals for the Spring 2015 concert begin on Monday, January 12 at the Jay Rehearsal Hall at Knox College.
+Rehearsals are in the Jay Rehearsal Hall at Knox College on Mondays at 7 pm.  Rehearsals for the Spring 2015 concert begin on January 12.
