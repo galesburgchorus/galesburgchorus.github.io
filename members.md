@@ -5,7 +5,6 @@ permalink: /members/
 published: true
 ---
 
-<div class="2col" markdown=1>
 ## Soprano
 Amanda Axley  
 Carole Buebe  
@@ -71,7 +70,6 @@ Chuck Schulz
 Rod Sharpe  
 Mike Thode  
 Morris Vos  
-</div>
 
 ## Board Members
 Mary Reeder Panther, President  
