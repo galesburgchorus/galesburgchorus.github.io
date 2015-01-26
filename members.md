@@ -5,7 +5,7 @@ permalink: /members/
 published: true
 ---
 
-<div class="2col">
+<div class="2col" markdown=1>
 ## Soprano
 Amanda Axley  
 Carole Buebe  
