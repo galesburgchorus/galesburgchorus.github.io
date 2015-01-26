@@ -6,61 +6,70 @@ published: true
 ---
 
 ## Soprano
+Amanda Axley  
 Carole Buebe  
-Sarah Brakenbury  
-Rebecca Burkehead  
 Janice Cunningham  
-Mary Foldi  
 Jennifer Gallas  
-Kathleen Harger  
-JoAnn Harris  
+Mariposa Gollery  
+Kathy Harger  
 Julie King  
 Pam Marolla  
-Kim Miller  
+Kimberly Miller  
 Jan Pistell  
-Katie Yelm
+Peggy Roberts  
+Bonnie Williams  
 
 ## Alto
+Diana Beck  
+Vanessa Campagna  
 Anne Carman-Hendel  
+Amanda Coon  
+Brianne Donaldson  
+Anita Hardeman  
 Janine Hawkinson  
-Sara Hawkinson  
 Hazel Henry  
-Louise Hiett  
+Louise Hiett
 Deborah Holmes  
 Chris Howland  
 Basia Krol  
 Mary Panther  
-Lydia Perrilles  
 Judy Scott  
-Sylvia Shepherd  
 Karen Truelove  
 Jackie Urban  
-Tede Verner  
+Mary Elizabeth Vos  
 
 ## Tenor
-David Amor  
+Doug Alderman  
 Krista Bowers-Sharpe  
 Ann Brodt  
 Erik Davis  
 Dane Feenstra  
-Greg Fitch  
 Jerry Hendel  
 Dave Howland  
 Chris King  
-Rose Morris
+Tim Lawson  
+Susan Lyon  
+Semenya McCord  
+Rose Morris  
+Jack Soper  
+Jim Thrall  
 
 ## Bass
+David Amor  
 Dick Brodt  
-Steve Davis  
+Juan Caro  
+Pier Debes  
 Alex Feenstra  
-Matt Harger  
 Dan Hiett  
 Brian Jordan  
 Nathan Kalmoe  
+Tim Narkiewicz  
 Chad Pistell  
 Richard Ross  
-Eric Spindler  
-Mike Thode
+Chuck Schulz  
+Rod Sharpe  
+Mike Thode  
+Morris Vos  
 
 ## Board Members
 Mary Reeder Panther, President  
