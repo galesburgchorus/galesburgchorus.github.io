@@ -51,7 +51,8 @@ Tim Lawson
 Susan Lyon  
 Semenya McCord  
 Rose Morris  
-Jack Soper  
+Jack Soper 
+Tim Stiles  
 Jim Thrall  
 
 ## Bass
