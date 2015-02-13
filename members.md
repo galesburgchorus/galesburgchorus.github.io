@@ -34,6 +34,7 @@ Chris Howland
 Basia Krol  
 Mary Panther  
 Judy Scott  
+Sylvia Shepherd  
 Karen Truelove  
 Jackie Urban  
 Mary Elizabeth Vos  
@@ -61,6 +62,7 @@ Dick Brodt
 Juan Caro  
 Pier Debes  
 Alex Feenstra  
+Alejandro Godina  
 Dan Hiett  
 Brian Jordan  
 Nathan Kalmoe  
