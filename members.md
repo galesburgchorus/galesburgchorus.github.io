@@ -28,7 +28,7 @@ Brianne Donaldson
 Anita Hardeman  
 Janine Hawkinson  
 Hazel Henry  
-Louise Hiett
+Louise Hiett  
 Deborah Holmes  
 Chris Howland  
 Basia Krol  
@@ -52,7 +52,7 @@ Tim Lawson
 Susan Lyon  
 Semenya McCord  
 Rose Morris  
-Jack Soper 
+Jack Soper   
 Tim Stiles  
 Jim Thrall  
 
