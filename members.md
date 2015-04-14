@@ -6,8 +6,7 @@ published: true
 ---
 
 ## Soprano
-Amanda Axley  
-Carole Buebe  
+Amanda Axley   
 Janice Cunningham  
 Jennifer Gallas  
 Mariposa Gollery  
@@ -29,8 +28,7 @@ Anita Hardeman
 Janine Hawkinson  
 Hazel Henry  
 Louise Hiett  
-Deborah Holmes  
-Chris Howland  
+Deborah Holmes    
 Basia Krol  
 Mary Panther  
 Judy Scott  
@@ -45,16 +43,13 @@ Krista Bowers-Sharpe
 Ann Brodt  
 Erik Davis  
 Dane Feenstra  
-Jerry Hendel  
-Dave Howland  
+Jerry Hendel   
 Chris King  
 Tim Lawson  
 Susan Lyon  
 Semenya McCord  
 Rose Morris  
-Brandon Ouellette  
-Jack Soper   
-Tim Stiles  
+Brandon Ouellette    
 Jim Thrall  
 
 ## Bass
@@ -62,10 +57,8 @@ David Amor
 Dick Brodt  
 Juan Caro  
 Pier Debes  
-Alex Feenstra  
-Alejandro Godina  
+Alex Feenstra    
 Dan Hiett  
-Brian Jordan  
 Nathan Kalmoe  
 Tim Narkiewicz  
 Chad Pistell  
