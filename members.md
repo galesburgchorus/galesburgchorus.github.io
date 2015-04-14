@@ -52,6 +52,7 @@ Tim Lawson
 Susan Lyon  
 Semenya McCord  
 Rose Morris  
+Brandon Ouellette  
 Jack Soper   
 Tim Stiles  
 Jim Thrall  
