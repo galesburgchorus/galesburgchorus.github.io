@@ -49,7 +49,8 @@ Tim Lawson
 Susan Lyon  
 Semenya McCord  
 Rose Morris  
-Brandon Ouellette    
+Brandon Ouellette  
+Tim Stiles  
 Jim Thrall  
 
 ## Bass
@@ -57,7 +58,8 @@ David Amor
 Dick Brodt  
 Juan Caro  
 Pier Debes  
-Alex Feenstra    
+Alex Feenstra  
+Alejandro Godina  
 Dan Hiett  
 Nathan Kalmoe  
 Tim Narkiewicz  
@@ -65,6 +67,7 @@ Chad Pistell
 Richard Ross  
 Chuck Schulz  
 Rod Sharpe  
+Eric Spindler  
 Mike Thode  
 Morris Vos  
 
