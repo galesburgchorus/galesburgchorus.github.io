@@ -7,17 +7,7 @@ published: true
 
 
 
-## Guest Choir
-
-### Anima: Young Singers of Greater Chicago
-3:00 pm, Sunday, November 16, 2014  
-First Lutheran Church
-
-Anima, formerly the Glen Ellyn Children's Chorus, is an internationally known group that has performed with prestigious organizations such as the Chicago Symphony Orchestra and the Lyric Opera of Chicago.  They are praised everywhere for their beautiful tone, expressive singing, and impeccably polished performances.
-
-Co-sponsored by Innkeeper's Fresh Roasted Coffee and Bahá'í Faith.
-
-## Fall Concert
+## Guest Choir concert TBA
 
 ### Holiday Concert
 7:30 pm, Saturday, November 21, 2015  
