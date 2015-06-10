@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "2014-2015 Season"
+title: "2015-2016 Season"
 permalink: /season/
 published: true
 ---
+
 
 
 ## Guest Choir
