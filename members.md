@@ -90,5 +90,5 @@ Hannah Malley
 ## Administrators
 Dr. Tim Pahel, Music Director  
 Mary Harlan, Accompanist  
-Business Manager TBA
+Business Manager TBA  
 Karen Noble, Graphic Designer
