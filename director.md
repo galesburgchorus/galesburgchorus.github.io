@@ -5,6 +5,7 @@ permalink: /director/
 published: true
 ---
 
+
 <div style="float: right; margin-left: 20px;">
     <img src="{{ site.baseurl }}/img/tim.jpg"/>
 </div>
@@ -18,7 +19,7 @@ and also taught courses and directed ensembles at Knox College.
 
 Dr. Pahel is the director of the Galesburg Community Chorus, and with that
 group has conducted many major works, some of which include Handel’s Messiah,
-Mozart’s Requiem, Orff’s Carmina Burana, and Bernstein’s Chichester Psalms.
+Mozart’s Requiem, Orff’s Carmina Burana, Bernstein’s Chichester Psalms, and Verdi's Requiem.
 
 Pahel holds a Bachelor of Arts degree in voice from Lawrence University in
 Appleton, Wisconsin, a Master of Music degree in Piano Performance from the
