@@ -5,6 +5,7 @@ permalink: /season/
 published: true
 ---
 
+
 ## Guest Choir
 
 ### Anima: Young Singers of Greater Chicago
@@ -17,23 +18,16 @@ Co-sponsored by Innkeeper's Fresh Roasted Coffee and Bahá'í Faith.
 
 ## Fall Concert
 
-### The Seven Joys of Christmas
-7:30 pm, Saturday, December 13, 2014  
-First Presbyterian Church
+### Holiday Concert
+7:30 pm, Saturday, November 21, 2015  
 
-Featuring music for choir and a very accomplished string quartet, the program will include classical as well as festive holiday works.  Some highlights include Francesco Durante's Magnificat, Johann Pachelbel's Nun danket alle Gott, and Kirke Mechem's The Seven Joys of Christmas, a set of beautifully arranged Christmas carols.
+Featuring music by modern composer Benjamin Britten, including Ceremony of Carols and St. Nicholas.
 
 Sponsored by Blick Art Materials.
 
-## Spring Concert
+## Spring Concert 2015
 
-### Verdi's Requiem
-7:30 pm, Saturday, May 2, 2015  
-Central Congregational Church
-
-Verdi's Requiem is one of the most powerful, dramatic, and beautiful choral-orchestral works ever composed.  The Community Chorus will be joined by the Monmouth College Chorale and the Knox College Choir, as well as professional soloists and a full orchestra, for a performance that is sure to be memorable and exciting.
-
-Sponsored by OSF St. Mary Medical Center.
+Featuring modern American composers; Morten Lauridsen's Lux Aeterna and John Corigliano's Fern Hill 
 
 ## Subscriptions
 Subscribe today for only $30. Seniors $24.
