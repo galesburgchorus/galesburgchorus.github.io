@@ -7,6 +7,7 @@ published: true
 
 
 
+
 Members from Spring 2015 Concert
 
 ## Soprano
@@ -90,5 +91,5 @@ Hannah Malley
 ## Administrators
 Dr. Tim Pahel, Music Director  
 Mary Harlan, Accompanist  
-Business Manager TBA  
+Melanie Delbridge, Business Manager  
 Karen Noble, Graphic Designer
