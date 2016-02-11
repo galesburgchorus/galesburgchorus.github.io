@@ -7,6 +7,7 @@ published: true
 
 
 
+
 ## Guest Choir concert TBA
 
 ### Holiday Concert
@@ -16,7 +17,8 @@ Featuring music by modern composer Benjamin Britten, including Ceremony of Carol
 
 Sponsored by Blick Art Materials.
 
-## Spring Concert 2015
+## Spring Concert 2016
+7:30 pm, Saturday, May 7
 
 Featuring modern American composers; Morten Lauridsen's Lux Aeterna and John Corigliano's Fern Hill 
 
