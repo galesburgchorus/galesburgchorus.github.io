@@ -8,6 +8,7 @@ published: true
 
 
 
+
 ## Guest Choir concert TBA
 
 ### Holiday Concert
@@ -16,6 +17,10 @@ published: true
 Featuring music by modern composer Benjamin Britten, including Ceremony of Carols and St. Nicholas.
 
 Sponsored by Blick Art Materials.
+##Quilt Auction Fundraiser
+![]({{site.baseurl}}//12654440_1003359943070906_1344338335827563063_n.jpg)
+
+
 
 ## Spring Concert 2016
 7:30 pm, Saturday, May 7
