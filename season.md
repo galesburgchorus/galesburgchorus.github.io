@@ -9,17 +9,10 @@ published: true
 
 
 
-## Guest Choir concert TBA
-
-### Holiday Concert
-7:30 pm, Saturday, November 21, 2015  
-
-Featuring music by modern composer Benjamin Britten, including Ceremony of Carols and St. Nicholas.
-
-Sponsored by Blick Art Materials.
 
 
-##Quilt Auction Fundraiser
+
+## **Quilt Auction Fundraiser**
 ![]({{site.baseurl}}//12654440_1003359943070906_1344338335827563063_n.jpg)
 
 
