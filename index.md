@@ -19,4 +19,4 @@ singing with the Chorus. For more information about singing with us, or if you w
 make a tax-deductable contribution, contact us.
 
 The Chorus rehearses in the Jay Rehearsal Hall in the Ford Center for Fine Arts at Knox College on Mondays at 7 pm.
-![]({{site.baseurl}}//12654440_1003359943070906_1344338335827563063_n.jpg)
+![]({{site.baseurl}}//12654440_1003359943070906_1344338335827563063_n.jpg)![]({{site.baseurl}}//12654440_1003359943070906_1344338335827563063_n.jpg)
