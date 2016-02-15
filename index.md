@@ -3,6 +3,7 @@ layout: default
 published: true
 ---
 
+![]({{site.baseurl}}//12654440_1003359943070906_1344338335827563063_n.jpg)
 
 ![]({{ site.baseurl }}/img/chorus.jpg)
 
