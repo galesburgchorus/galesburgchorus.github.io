@@ -22,8 +22,6 @@ make a tax-deductable contribution, contact us.
 The Chorus rehearses in the Jay Rehearsal Hall in the Ford Center for Fine Arts at Knox College on Mondays at 7 pm.
 
 
-## Quilt Auction Fundraiser
-
-7:00 pm, Saturday, March 19 At “The Box” 306B Simmons St., One queen-sized quilt is being raffled with the lucky ticket being drawn at the end of the auction. Auction items include: baby blankets, table runners, pillows, and quilts which have been made and donated by members of the Galesburg Piecemakers Quilt Guild. All of the proceeds of the auction and raffle go directly to the Galesburg Community Chorus to help continue to bring great choral music to Western Illinois.
+## 
 
 
