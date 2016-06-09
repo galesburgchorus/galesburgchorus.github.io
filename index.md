@@ -22,6 +22,5 @@ make a tax-deductable contribution, contact us.
 The Chorus rehearses in the Jay Rehearsal Hall in the Ford Center for Fine Arts at Knox College on Mondays at 7 pm.
 
 
-## 
 
 
