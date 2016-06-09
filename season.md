@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "2015-2016 Season"
+title: "2016-2017 Season"
 permalink: /season/
 published: true
 ---
@@ -12,17 +12,17 @@ published: true
 
 
 
-## **Quilt Auction Fundraiser**
-7:00 pm, Saturday, March 19
-At "The Box" 306B Simmons St.,
-One queen-sized quilt is being raffled with the lucky ticket being drawn at the end of the auction.  Auction items include:  baby blankets, table runners, pillows, and quilts which have been made and donated by members of the Galesburg Piecemakers Quilt Guild.  All of the proceeds of the auction and raffle go directly to the Galesburg Community Chorus to help continue to bring great choral music to Western Illinois.  
+## **Fall Concert 2016**
+7:30 pm, Saturday, December 10
+At The First Lutheran Church
+The Fall Concert will be under the direction of Mr. Ben Luedcke.  
 
 
 
-## Spring Concert 2016
-7:30 pm, Saturday, May 7
+## Spring Concert 2017
+7:30 pm, Saturday,  
 
-Featuring modern American composers; Morten Lauridsen's Lux Aeterna and John Corigliano's Fern Hill 
+ 
 
 ## Subscriptions
 Subscribe today for only $30. Seniors $24.
