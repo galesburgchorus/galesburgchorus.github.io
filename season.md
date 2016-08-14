@@ -35,4 +35,4 @@ Cost of tickets purchased separately:
 
 Use your season pass as a single admission ticket for three concerts, or treat your friends and use it to admit up to four people during the season.
 
-Tickets are available at the door or at Innkeeper's Fresh Roasted Coffee.
+Tickets are available at the door.
