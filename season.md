@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "2016-2017 Season"
+title: 2016-2017 Season
 permalink: /season/
 published: true
 ---
@@ -14,13 +14,14 @@ published: true
 
 ## **Fall Concert 2016**
 7:30 pm, Saturday, December 10
-At The First Lutheran Church
-The Fall Concert will be under the direction of Mr. Ben Luedcke.  
+at The First Lutheran Church.
+The Fall Concert will be under the direction of Mr. Ben Luedcke.
+The program is "Love Stories," and will feature the Brahms' Liebeslieder-Walzer Op. 52 and Daniel Pinkham's Wedding Cantata.
 
 
 
 ## Spring Concert 2017
-7:30 pm, Saturday,  
+7:30 pm, Saturday, May 6, 2017 the Brahms Requiem will be performed at the Central Congregational Church.
 
  
 
