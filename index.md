@@ -19,4 +19,4 @@ and grants. We also offer scholarships to college-bound high school seniors inte
 singing with the Chorus. For more information about singing with us, or if you would like to
 make a tax-deductable contribution, contact us.
 
-The Chorus rehearses in the Jay Rehearsal Hall in the Ford Center for Fine Arts at Knox College on Mondays at 7 pm.
+The Chorus rehearses in the Jay Rehearsal Hall in the Ford Center for Fine Arts at Knox College on Mondays at 7 pm. Auditions are not required.
