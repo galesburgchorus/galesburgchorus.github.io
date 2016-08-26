@@ -88,7 +88,7 @@ Dawn Johnson
 Suzanne Klohn  
 Rev. Pam Marolla  
 Ken McMillan  
-Rev. Sterrett Collins
+Rev. Sterrett Collins  
 Hannah Malley
 
 ## Administrators
