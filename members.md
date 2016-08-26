@@ -77,15 +77,18 @@ Mike Thode
 Morris Vos  
 
 ## Board Members
-Mary Reeder Panther, President  
-Ann Brodt, Vice President  
-Sandra Odell, Secretary  
-Erik Davis, Treasurer  
+Ann Brodt, President  
+Dan Hiett, Vice President  
+Erik Davis, Secretary  
+Chris King, Treasurer  
 Anne Carman-Hendel  
 Jennifer Gallas  
-Chris King  
+Kathy Berrey  
+Dawn Johnson  
 Suzanne Klohn  
-Susan Lyon  
+Rev. Pam Marolla  
+Ken McMillan  
+Rev. Sterrett Collins
 Hannah Malley
 
 ## Administrators
