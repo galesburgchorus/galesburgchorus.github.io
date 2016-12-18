@@ -8,71 +8,44 @@ published: true
 
 
 
-Members from Spring 2015 Concert
+Members from Fall 2016 Concert
 
 ## Soprano
-Amanda Axley   
-Janice Cunningham  
+Carol Buebe    
 Jennifer Gallas  
-Mariposa Gollery  
-Kathy Harger  
+Chris King  
 Julie King  
+Hilary Lehmann  
 Pam Marolla  
-Kimberly Miller  
-Jan Pistell  
-Peggy Roberts  
-Bonnie Williams  
+Fiona Munroe   
+Peggy Roberts    
 
 ## Alto
-Diana Beck  
-Vanessa Campagna  
-Anne Carman-Hendel  
-Amanda Coon  
-Brianne Donaldson  
-Anita Hardeman  
+Auralia Crider   
 Janine Hawkinson  
-Hazel Henry  
 Louise Hiett  
 Deborah Holmes    
-Basia Krol  
-Mary Panther  
-Judy Scott  
-Sylvia Shepherd  
-Karen Truelove  
-Jackie Urban  
-Mary Elizabeth Vos  
+Basia Krol    
+Karen Truelove      
 
 ## Tenor
-Doug Alderman  
 Krista Bowers-Sharpe  
 Ann Brodt  
+Eric Coates  
+John Crider  
 Erik Davis  
-Dane Feenstra  
-Jerry Hendel   
-Chris King  
-Tim Lawson  
+Dane Feenstra     
 Susan Lyon  
-Semenya McCord  
 Rose Morris  
-Brandon Ouellette  
-Tim Stiles  
-Jim Thrall  
+Dale Truelove  
 
 ## Bass
 David Amor  
 Dick Brodt  
-Juan Caro  
-Pier Debes  
-Alex Feenstra  
-Alejandro Godina  
+Sterrett Collins  
 Dan Hiett  
-Nathan Kalmoe  
-Tim Narkiewicz  
-Chad Pistell  
 Richard Ross  
-Chuck Schulz  
-Rod Sharpe  
-Eric Spindler  
+Roderick Sharpe    
 Mike Thode  
 Morris Vos  
 
@@ -93,6 +66,5 @@ Hannah Malley
 
 ## Administrators
 Dr. Tim Pahel, Music Director  
-Casey Dierlam, Accompanist  
-Nicole Trego, Business Manager  
+Casey Dierlam, Accompanist    
 Karen Noble, Graphic Designer
