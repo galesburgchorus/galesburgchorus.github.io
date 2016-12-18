@@ -12,16 +12,16 @@ published: true
 
 
 
-## **Fall Concert 2016**
-7:30 pm, Saturday, December 10
+## **Guest Concert 2017**
+7:30 pm, Saturday, April 1 
 at The First Lutheran Church.
-The Fall Concert will be under the direction of Mr. Ben Luedcke.
-The program is "Love Stories," and will feature the Brahms' Liebeslieder-Walzer Op. 52 and Daniel Pinkham's Wedding Cantata.
+The Chamber Singers of the University of Illinois under the direction of choral conductor Andrew McGill will perform.
+The group presents a wide range of works from across the entire range of choral literature.
 
 
 
 ## Spring Concert 2017
-7:30 pm, Saturday, May 6, 2017 the Brahms Requiem will be performed at the Central Congregational Church.
+7:30 pm, Saturday, May 6, 2017 the Brahms Requiem will be performed at the Central Congregational Church. This exciting performance will feature a combination of three choral groups, including the Galesburg Community Choir, the Knox College Choir, and the Monmouth College Chorale, under the direction of guest conductor Dr. Laura Lane.
 
  
 
