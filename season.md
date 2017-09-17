@@ -12,11 +12,10 @@ published: true
 
 
 
-## **Guest Concert 2017**
-7:30 pm, Saturday, April 1 
+## **Fall Concert 2017**
+7:30 pm, Saturday, December 9, 2017 
 at The First Lutheran Church.
-The Chamber Singers of the University of Illinois under the direction of choral conductor Andrew McGill will perform.
-The group presents a wide range of works from across the entire range of choral literature.
+Joseph Haydn’s Mass in Time of War, composed in 1796 in response to war raging in Europe, is a stunning and powerful work for chorus, a quartet of soloists, and a virtuosic orchestra. The program’s second half will celebrate the season through a variety of holiday selections, including Ralph Vaughan Williams’s Fantasia on Christmas Carols.
 
 
 
