@@ -54,7 +54,7 @@ Dan Hiett, President
 Rev. Sterrett Collins, Vice President  
 Erik Davis, Secretary  
 Chris King, Treasurer  
-Ann Brodt 
+Ann Brodt  
 Pat Simpson  
 Kathy Berrey  
 Jon Crider  
