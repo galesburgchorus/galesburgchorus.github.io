@@ -19,15 +19,16 @@ Joseph Haydn’s _Mass in Time of War_, composed in 1796 in response to war ragi
 
 
 
-## Guest Concert Greenville College Choir 2018**
+## **Guest Concert _Greenville College Choir_ 2018**
 7:00 pm, Sunday, March 11, 2018 at the First Lutheran Church.
 The flagship choral ensemble of Greenville College, the Greenville College Choir has attained a widespread reputation for performing sacred choral music of the highest quality. The group consists of 40 undergraduate students from various fields of liberal arts study, including the College’s five music degree
 programs. They tour annually to various destinations throughout the United States and Europe, including a 2015 tour to Ireland.
 
 
 
-## Spring Concert 2017
-7:30 pm, Saturday, May 6, 2017 the Brahms Requiem will be performed at the Central Congregational Church. This exciting performance will feature a combination of three choral groups, including the Galesburg Community Choir, the Knox College Choir, and the Monmouth College Chorale, under the direction of guest conductor Dr. Laura Lane.
+## **Spring Concert 2018**
+7:30 pm, Saturday, April 21, 2018 at the Central Congregational Church.  
+Our spring concert will feature Ralph Vaughan Williams’ masterpiece _Dona Nobis Pacem_ and his beautiful _Five Mystical Songs_, combined with the Monmouth College Chorale and the Monmouth-Roseville High School Choirs. The works will feature two professional soloists and orchestra.
 
  
 
