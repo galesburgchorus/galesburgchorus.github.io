@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2016-2017 Season
+title: 2017-2018 Season
 permalink: /season/
 published: true
 ---
@@ -15,7 +15,7 @@ published: true
 ## **Fall Concert 2017**
 7:30 pm, Saturday, December 9, 2017 
 at The First Lutheran Church.
-Joseph Haydn’s Mass in Time of War, composed in 1796 in response to war raging in Europe, is a stunning and powerful work for chorus, a quartet of soloists, and a virtuosic orchestra. The program’s second half will celebrate the season through a variety of holiday selections, including Ralph Vaughan Williams’s Fantasia on Christmas Carols.
+Joseph Haydn’s _Mass in Time of War_, composed in 1796 in response to war raging in Europe, is a stunning and powerful work for chorus, a quartet of soloists, and a virtuosic orchestra. The program’s second half will celebrate the season through a variety of holiday selections, including Ralph Vaughan Williams’s _Fantasia on Christmas Carols_.
 
 
 
