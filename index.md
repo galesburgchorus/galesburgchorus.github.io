@@ -10,7 +10,7 @@ published: true
 
 Galesburg Community Chorus was organized in 1945 to provide singers an opportunity
 to participate in choral music in its larger forms and give the Galesburg community an
-opportunity to enjoy great choral works. Now in its 72nd season, the Chorus continues to
+opportunity to enjoy great choral works. Now in its 73rd season, the Chorus continues to
 offer a tradition of choral excellence to both singers and audience members. Our mission
 is to “share the gift of great choral music, to inspire new generations with the love of singing,
 and to broaden our reach to all people.” Galesburg Community Chorus is supported by the
