@@ -10,7 +10,7 @@ published: true
     <img src="{{ site.baseurl }}/img/tim.jpg"/>
 </div>
 
-Dr. Tim Pahel is an Assistant Professor of Music and Director of Choral and
+Dr. Tim Pahel is an Associate Professor of Music and Director of Choral and
 Vocal Activities at Monmouth College. His duties there include directing the
 Monmouth Chorale and Chamber Choir, teaching private voice, conducting, and
 other courses in the music education curriculum. Prior to coming to Monmouth,
