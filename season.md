@@ -33,18 +33,20 @@ The North Park University Gospel Choir performs contemporary sacred music from t
 
 
 ## **Spring Concert 2019**
-7:30 pm, Saturday,  2019 at the Central Congregational Church.  
-Our spring concert will feature Ralph Vaughan Williams’ masterpiece _Dona Nobis Pacem_ and his beautiful _Five Mystical Songs_, combined with the Monmouth College Chorale and the Monmouth-Roseville High School Choirs. The works will feature two professional soloists and orchestra.
+7:30 pm, Saturday, May 4, 2019 at the First Lutheran Church.  
+Our spring concert is astoundingly beautiful, deeply moving, and powerfully exciting.
+_Mozart’s Requiem_ is deservedly considered one of the greatest
+choral-orchestral works ever written.
 
 
 
 ## Subscriptions
-Subscribe today for only $30. Seniors $24.
+Subscribe today for only $52. Seniors $40.
 Cost of tickets purchased separately:
 
-* Fall Concert $12 (Srs. $10)
-* Guest Concert $12 (Srs. $10)
-* Spring Concert $12 (Srs. $10)
+* Fall Concert $15 (Srs. $12)
+* Guest Concert $15 (Srs. $12)
+* Spring Concert $15 (Srs. $12)
 
 Use your season pass as a single admission ticket for three concerts, or treat your friends and use it to admit up to four people during the season.
 
