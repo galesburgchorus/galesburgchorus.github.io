@@ -42,7 +42,7 @@ Our spring concert will feature Ralph Vaughan Williams’ masterpiece _Dona Nobi
 Subscribe today for only $30. Seniors $24.
 Cost of tickets purchased separately:
 
-* Fall Concert $1 (Srs. $1)
+* Fall Concert $12 (Srs. $10)
 * Guest Concert $12 (Srs. $10)
 * Spring Concert $12 (Srs. $10)
 
