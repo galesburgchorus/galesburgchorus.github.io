@@ -8,43 +8,57 @@ published: true
 
 
 
-Members from Fall 2016 Concert
+Members from Season 2017-18
 
 ## Soprano
 Carol Buebe    
 Jennifer Gallas  
+Kathy Harger  
+Lydia Hill  
+Emily Kilgore  
 Chris King  
 Julie King  
 Hilary Lehmann  
 Pam Marolla  
-Fiona Munroe   
-Peggy Roberts    
+Jeannette McWhorter  
+Katie Richter     
+Peggy Roberts  
+Bonnie Williams
 
-## Alto
-Auralia Crider   
+## Alto  
 Janine Hawkinson  
-Louise Hiett  
+Hazel Henry  
+Louise Hiett 
+Janell Johnson  
 Deborah Holmes    
 Basia Krol    
-Karen Truelove      
+Sarah Mills  
+Mary Panther  
+Karen Truelove  
+Jackie Urban  
 
 ## Tenor
+Doug Alderman  
 Krista Bowers-Sharpe  
 Ann Brodt  
-Eric Coates  
 John Crider  
-Erik Davis  
 Dane Feenstra     
 Susan Lyon  
 Rose Morris  
+Bob Myers  
 Dale Truelove  
+Josh Tvrdy
 
 ## Bass
 David Amor  
 Dick Brodt  
 Sterrett Collins  
+Nick Elders  
 Dan Hiett  
+Brian Jordan  
+Christopher Poore  
 Richard Ross  
+Chuck Schulz  
 Roderick Sharpe    
 Mike Thode  
 Morris Vos  
