@@ -45,6 +45,7 @@ Subscribe today for only $52. Seniors $40.
 Cost of tickets purchased separately:
 
 * Fall Concert $15 (Srs. $12)
+* Christmas Concert $15 (Srs. $12)
 * Guest Concert $15 (Srs. $12)
 * Spring Concert $15 (Srs. $12)
 
