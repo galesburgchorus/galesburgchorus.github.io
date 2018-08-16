@@ -33,7 +33,7 @@ The North Park University Gospel Choir performs contemporary sacred music from t
 
 
 ## **Spring Concert 2019**
-7:30 pm, Saturday,  2018 at the Central Congregational Church.  
+7:30 pm, Saturday,  2019 at the Central Congregational Church.  
 Our spring concert will feature Ralph Vaughan Williams’ masterpiece _Dona Nobis Pacem_ and his beautiful _Five Mystical Songs_, combined with the Monmouth College Chorale and the Monmouth-Roseville High School Choirs. The works will feature two professional soloists and orchestra.
 
 
