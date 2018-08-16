@@ -49,20 +49,17 @@ Roderick Sharpe
 Mike Thode  
 Morris Vos  
 
-## Board Members 2017-18
+## Board Members 2018-19
 Dan Hiett, President  
 Rev. Sterrett Collins, Vice President  
 Erik Davis, Secretary  
 Chris King, Treasurer  
 Ann Brodt  
 Pat Simpson  
-Kathy Berrey  
-Jon Crider  
-Suzanne Klohn  
+Linda Tippey    
 Rev. Pam Marolla  
 Ken McMillan  
 Emily Kilgore  
-Tom Clark
 
 ## Administrators
 Dr. Tim Pahel, Music Director  
