@@ -20,7 +20,7 @@ Over There: A Remembrance of the War to End All Wars. A variety of selections wi
 
 
 ## **Christmas Concert 2018**
-7:30 pm, Friday, December 8, 2018 
+7:30 pm, Friday, December 7, 2018 
 at the First Lutheran Church.
 We will have a Sing-Along _Messiah_, performing the Christmas portion of Handel's _Messiah_. The audience is welcome to sing along if they wish.
 
