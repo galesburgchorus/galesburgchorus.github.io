@@ -36,7 +36,7 @@ The North Park University Gospel Choir performs contemporary sacred music from t
 7:30 pm, Saturday, May 4, 2019 at the Central Congregational Church.  
 Our spring concert is astoundingly beautiful, deeply moving, and powerfully exciting.
 _Mozart’s Requiem_ is deservedly considered one of the greatest
-choral-orchestral works ever written. The Chorus will be joined by the Monmouth Chorale and the Knox College Choir.
+choral-orchestral works ever written. The Chorus will be joined by the Monmouth College Chorale and the Knox College Choir.
 
 
 
